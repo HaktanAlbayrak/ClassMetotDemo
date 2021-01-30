@@ -1,0 +1,11 @@
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\MY Beast\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
